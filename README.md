@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://kiwiphoenix364.github.io/bad-apple-arcade-for-the-memes/](https://kiwiphoenix364.github.io/bad-apple-arcade-for-the-memes/)
+> Open this page at [https://kiwiphoenix364.github.io/bad-apple-arcade/](https://kiwiphoenix364.github.io/bad-apple-arcade/)
 
 ## Use as Extension
 
